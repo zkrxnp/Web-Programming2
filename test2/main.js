@@ -13,7 +13,7 @@ function yellow(){
 }
 
 function reset(){
-    document.body.style.backgroundColor = 'lightgray'
+    document.body.style.backgroundColor = 'rgb(240, 248, 255)'
 }
 
 function showhtml(){
