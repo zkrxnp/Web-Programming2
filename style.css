@@ -11,13 +11,33 @@ body{
     line-height: 1.5;
 }
 
-ul{
+.nav{
     list-style-type: none;
 }
 
 .main{
     color: rgb(70, 90, 110); /*메인 화면 글자색*/
     line-height: 1.5;
+        margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul{
+    list-style-type: disc;
+    padding-left: 40px;
+}
+
+ol{
+    list-style-type: decimal;
+    padding-left: 40px;
+}
+
+dl{
+    margin-left: 20px;
+}
+
+dd{
+    margin-left: 20px;
 }
 
 .navbar{
